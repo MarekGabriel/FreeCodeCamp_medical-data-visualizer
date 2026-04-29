@@ -63,7 +63,9 @@ To be reached when calling both functions implemented:
 * `medical_data_visualizer.draw_cat_plot()`
 * `medical_data_visualizer.draw_heat_map()`
 
-![plots](/catplot_heatmap.png)
+<p float="left">
+  <img src="/catplot_heatmap.png" width="600"/>
+</p>
 
 ## Project Structure
 
